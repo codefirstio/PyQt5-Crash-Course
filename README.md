@@ -3,7 +3,7 @@ PyQt5 Crash Course: Button, Check Box, Combo Box, Label, Text Edit, Spin Box
 Contains the source code for Youtube videos on channel youtube.com/codefirstio
 
 ## About
-This is the source code for: 
+This is the source code for: https://youtu.be/JYZzO__ulLw
   
 Tutorial by Youtube channel: Code First  
 Channel: youtube.com/CodeFirstio  
